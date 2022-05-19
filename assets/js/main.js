@@ -280,7 +280,7 @@
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?a2bac99816cb1e565978800299dcfcc4";
+  hm.src = "https://hm.baidu.com/hm.js?ff507f31c5e652e035fbdae42987d088";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
